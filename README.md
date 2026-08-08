@@ -41,11 +41,10 @@ I build **mobile applications with Flutter**, integrated with **Google Sheets & 
 
 ---
 
-### 📊 GitHub Stats
-
+<!-- 📊 GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msendfive&show_icons=true&theme=default&hide_border=true" width="48%" alt="msendfive's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=msendfive&hide_border=true" width="48%" alt="msendfive's streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=msendfive&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" width="48%" alt="msendfive's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msendfive&hide_border=true" width="48%" alt="msendfive's streak stats" />
 </p>
 
 ---
